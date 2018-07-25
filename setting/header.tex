@@ -1,0 +1,9 @@
+% !TEX root =../main.tex
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+ \pagestyle{fancy} 
+  \let\origtitle\title 
+  \renewcommand{\title}[1]{\lfoot{#1}\origtitle{#1}}
+  \cfoot{}
+  \rfoot{\thepage}
+ 

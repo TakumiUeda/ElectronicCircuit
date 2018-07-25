@@ -1,0 +1,51 @@
+\documentclass[b5j,twoside,openany]{jreport}
+\makeindex
+\makeatletter
+
+%%フォント関連
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{bm}
+\usepackage{amssymb}
+
+%%丸く囲む
+\usepackage{ascmac}
+
+%%複数行のコメント
+\usepackage{comment}
+
+%%図表の挿入
+\usepackage[dvipdfmx]{graphicx}
+
+%%索引の作成用
+\usepackage{makeidx}
+
+%%表・段組の設定
+\usepackage{multienum}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{enumerate}
+
+\input setting/header.tex
+
+%リンク
+\usepackage[dvipdfmx]{hyperref}
+\usepackage{pxjahyper}
+
+\input title/title.tex
+\input setting/fomulanumber.tex
+\input setting/header.tex
+\input setting/newtheory.tex
+\begin{document}
+\maketitle
+
+All Rights Reserved (c) Takumi Ueda 2018-present.\\
+個人使用目的以外での使用を禁じます．ただし，教育目的での再配布に限り著作者を明示する場合に許諾します．\\
+
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\input{source/chapter1}
+\addcontentsline{toc}{chapter}{索引}
+\printindex
+\end{document}

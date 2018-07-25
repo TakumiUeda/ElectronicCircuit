@@ -1,0 +1,75 @@
+
+\begin{theindex}
+
+  \setcounter{page}{11}
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item IC\dotfill \hyperpage{5}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small L\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item LSI\dotfill \hyperpage{5}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item イマジナリショート\dotfill \hyperpage{9}
+  \item エミッタ\dotfill \hyperpage{7}
+  \item オペアンプ\dotfill \hyperpage{9}
+    \subitem 非反転増幅器\dotfill \hyperpage{9}
+    \subitem 積分器\dotfill \hyperpage{9}
+    \subitem 非反転増幅器\dotfill \hyperpage{9}
+    \subitem 微分器\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small か\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 価電子帯\dotfill \hyperpage{5}
+  \item 寄生容量\dotfill \hyperpage{7}
+  \item 禁制帯\dotfill \hyperpage{5}
+  \item コレクタ\dotfill \hyperpage{7}
+  \item コンパレータ\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item サイリスタ\dotfill \hyperpage{7}
+  \item 少数キャリア\dotfill \hyperpage{5}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item ダイオード
+ \subitem 整流用ダイオード\dotfill \hyperpage{5}
+    \subitem ダイアック\dotfill \hyperpage{5}
+    \subitem ツェナーダイオード\dotfill \hyperpage{5}
+    \subitem 定電圧ダイオード\dotfill \hyperpage{5}
+    \subitem 定電流ダイオード\dotfill \hyperpage{5}
+    \subitem 発光ダイオード\dotfill \hyperpage{5}
+    \subitem ホトダイオード\dotfill \hyperpage{5}
+  \item 多数キャリア\dotfill \hyperpage{5}
+  \item 電子\dotfill \hyperpage{5}
+  \item トライアック\dotfill \hyperpage{7}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small な\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 熱暴走\dotfill \hyperpage{5}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small は\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item バイアス\dotfill \hyperpage{7}
+  \item 反転増幅器\dotfill \hyperpage{9}
+  \item フェルミ
+ \subitem フェルミ準位\dotfill \hyperpage{5}
+  \item ベース\dotfill \hyperpage{7}
+  \item ホール\dotfill \hyperpage{5}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ら\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item 励起\dotfill \hyperpage{5}
+
+ \end{theindex}

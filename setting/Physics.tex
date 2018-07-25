@@ -1,0 +1,107 @@
+% !TEX root =../main.tex
+%%物理定数
+%電気素量
+\newcommand{\mkse}{1.602\ 176\ 620\ 898 \cdots \times 10^{-19}}
+\newcommand{\cgse}{4.803\ 204\ 501\ 1 \cdots \times 10^{-10}}
+%電子の質量
+\newcommand{\me}{9.109 \cdots \times 10^{-31}}
+%真空中の光速
+\newcommand{\sol}{299\ 792\ 458}
+%リュードベリ定数
+\newcommand{\Rinf}{1.097\ 373\ 156\ 8505 \times 10^{7} }
+%プランク定数
+\newcommand{\crplank}{6.626\ 070\ 040\ \times 10^{−34}}
+%ディラック定数
+\newcommand{\ck}{1.054\ 571\ 800 \times 10^{-34}}
+%真空の誘電率
+\newcommand{\cep}{8.854\ 187\ 817\cdots \times 10^{−12}}
+%真空の透磁率
+\newcommand{\cmu}{4 \pi \times 10^{7}}
+%真空のインピーダンス
+\newcommand{\zo}{376.730\ 313\ 461 \cdots}
+%万有引力定数
+\newcommand{\g}{6.674\ 08 \times 10^{11}}
+%１ラジアンあたりの角度
+\newcommand{\onerad}{57.2958}
+
+\newcommand{\PhysicsConstant}{
+\begin{table}[htbp]
+\begin{center}
+\caption{普遍定数}
+\begin{tabular}{cccc}  
+定数名				& 量記号	 		& 定数値 			&単位\\ \hline
+真空中の光速			& $c_{0}$ 			& $\sol$ 			& $\rm{[m/s]}$\\
+真空の透磁率			& $\mu_{0}$ 		& $\cmu$ 			& $\rm{[N/A^{2}]}$\\
+真空の誘電率			& $\varepsilon_{0}$ 	& $\cep$ 			& $\rm{[F/m]}$\\
+真空のインピーダンス	& $Z_{0}$ 		& $\zo$ 			& $\rm{[\Ohm]}$\\
+万有引力定数			& $G$ 			& $\g$ 			& $\rm{[N \cdot m^{2} /kg^{2}]}$\\
+プランク定数 			& $h$ 			& $\crplank$ 		& $\rm{[J \cdot s]}$\\
+ディラック定数			& $\hbar$			& $\ck$ 			& $\rm{[J \cdot s]}$\\
+\end{tabular}
+\end{center}
+\end{table}
+}
+\newcommand{\SIunit}{
+\begin{table}[htbp]
+\begin{center}
+\caption{SI基本単位}
+\begin{tabular}{ccc}
+    量					& 名称 			& 記号      \\ \hline
+    長さ 				& メートル		& m 		\\
+    質量 				& キログラム		& kg		\\
+    時間				& 秒				& s		\\
+    電流 				&  アンペア		& A		\\
+    熱力学温度			& ケルビン		& K		\\
+    物質量	 			& モル			& mol 	\\     
+    光度 				&  カンデラ		& cd		\\
+\end{tabular}
+\end{center}
+\end{table}
+}
+\newcommand{\SIderivedunit}{
+\begin{table}[htbp]
+\begin{center}
+\caption{主なSI組立単位}
+\begin{tabular}{cccc}  
+量			& 名称	 		& 単位 						&次元\\ \hline
+面積			& 平方メートル 	& $\rm{[m^{2}]}$ 				& $\rm{[m^{2}]}$ 	\\
+体積			& 立方メートル		& $\rm{[m^{3}]}$ 				& $\rm{[m^{3}]}$ 	\\
+速度			& メートル毎秒 	& $\rm{[m/s]}$ 					& $\rm{[m/s]}$ 		\\
+加速度		& メートル毎秒毎秒	& $\rm{[m/s^{2}]}$ 				& $\rm{[m/s^{2}]}$ 	\\
+力 			& ニュートン		& $\rm{[N]}$ 					& $\rm{[kg \cdot m/s^{2}]}$ 	\\
+圧力			& パスカル		& $\rm{[P],[N/m^{2}]}$ 			& $\rm{[kg \cdot /m \cdot s^{2}]}$ \\
+エネルギー	& ジュール	 	& $\rm{[J],[N\cdot m],[W\cdot s]}$ 	& $\rm{[kg \cdot m^{2} / s^{2}]}$ \\
+周波数		& ヘルツ		 	& $\rm{[Hz],[1 / s]}$		 		& $\rm{[1/s]}$ \\
+仕事率		& ワット		 	& $\rm{[W],[J / s]}$		 		& $\rm{[kg \cdot m^{2} /s^{3}]}$ \\
+電荷			& クーロン	 	& $\rm{[C]}$		 			& $\rm{[A \cdot s]}$ \\
+電位・電圧	& ボルト		 	& $\rm{[V],[W/A]}$		 		& $\rm{[kg \cdot m^{2} /s^{3} \cdot A]}$ \\
+電場			& 			 	& $\rm{[V/m]}$			 		& $\rm{[kg \cdot m /s^{3} \cdot A^{2}]}$ \\
+電気抵抗		& オーム		 	& $\rm{[\Ohm],[V/A]}$			& $\rm{[kg \cdot m^{2} /s^{3} \cdot A^{2}]}$ \\
+電気伝導度	& 			 	& $\rm{[A / V \cdot m]}$			& $\rm{[ s^{3} \cdot A^{2} / kg \cdot m^{3}]}$ \\
+\end{tabular}
+\end{center}
+\end{table}
+}
+\newcommand{\SIprefix}{
+\begin{table}[htbp]
+\begin{center}
+\caption{SI接頭辞}
+  \begin{tabular}{ccc|ccc} 
+    接頭辞 		& 記号 	& $10^{n}$ 	& 接頭辞 		& 記号 	& $10^{n}$  \\ \hline
+    ヨタ 		& Y  		& $10^{24}$	& ヨクト 		&  y 		& $10^{-24}$ \\
+    ゼタ 		& Z 		& $10^{21}$ 	& ゼプト 		&  z 		& $10^{-21}$\\
+    エクサ 		& E 		& $10^{18}$  	& アト 		&  a 		& $10^{-18}$\\
+    ペタ 		& P  		& $10^{15}$  	& フェムト 	&  f		& $10^{-15}$\\
+    テラ 		& T  		& $10^{12}$ 	& ピコ 		&  p 		& $10^{-12}$\\
+    ギガ 		& G 		& $10^{9}$  	& ナノ 		&  n 		& $10^{-9}$\\
+    メガ 		& M 		& $10^{6}$  	& マイクロ 	& $\mu$ 	& $10^{-6}$\\
+    キロ 		&  k 		& $10^{3}$  	& ミリ 		& m 		& $10^{-3}$\\
+    ヘクト 		&  h 		& $10^{2}$  	& センチ 		& c 		& $10^{-2}$\\
+    デカ 		&  da 	& $10^{1}$  	& デシ 		& d 		& $10^{-1}$ \\
+    -			& -		& $1$  		&-			& -		& $1$  \\
+\end{tabular}
+\end{center}
+\end{table}
+}
+%%単位
+\newcommand{\Ohm}{\Omega}

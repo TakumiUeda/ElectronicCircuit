@@ -1,0 +1,85 @@
+% !TEX root =../main.tex
+\usepackage[framed,thmmarks]{ntheorem}
+
+\usepackage{framed}
+\usepackage{color}
+
+
+\theorembodyfont{\normalfont}
+\theoremstyle{plain}
+\theoremseparator{.}
+
+
+\newtheorem{Definition}{定義}[section]
+\theoremclass{Definition}
+\theoremstyle{break}
+\newframedtheorem{mydef}[Definition]{定義}
+
+\theorembodyfont{\normalfont}
+\theoremstyle{plain}
+\theoremseparator{.}
+
+\newtheorem{Theorem}{定理}[section]
+\theoremclass{Theorem}
+\theoremstyle{break}
+\newframedtheorem{mytheorem}[Theorem]{定理}
+
+
+\newtheorem{Axion}{公理}[section]
+\newtheorem{plac}{演習}[section]
+\newtheorem{ans}{解}[section]
+\newtheorem{Proposition}{命題}[section]
+\newtheorem{exam}{例}[section]
+\newtheorem{Proof}{導出や解説}[section]
+
+
+
+
+%%% real field R
+\newcommand{\Rfield}{\mbox{\bf R}}
+%%% integer field Z
+\newcommand{\Ifield}{\mbox{\bf Z}}
+%%% positive integer field Z+
+\newcommand{\PIfield}{\mbox{\bf Z$^{+}$}}
+%%% natual integer field N
+\newcommand{\NIfield}{\mbox{\bf N}}
+%%%
+\newcommand{\Qfield}{\mbox{\bf Q}}
+
+%%%  grad, div, rot 記号
+\newcommand{\vgrad}[1]{\mbox{grad }\bm{#1}}
+\newcommand{\vdiv}[1]{\mbox{div }\bm{#1}} 
+\newcommand{\vrot}[1]{\mbox{rot }\bm{#1}}
+\newcommand{\lhaplus}[1]{\bm{\nabla^{2}} \bm{#1}}
+\newcommand{\cross}[2]{\bm{#1} \times \bm{#2}}
+\newcommand{\idot}[2]{\bm{#1} \cdot \bm{#2}}
+
+
+%%%  1/2
+\newcommand{\half}{\frac{1}{2}}
+
+   %%%  逆ベクトルアクセント
+   \newcommand{\ivec}[1]{\stackrel{\leftarrow}{#1}}
+
+   %%%  定義記号
+   \newcommand{\defeq}{\stackrel{\mbox{\footnotesize def}}{=}}
+
+   %%%  逆数
+   \newcommand{\rev}[1]{\frac{1}{#1}}
+
+   %%%  偏微分
+   \newcommand{\pdrv}[2]{\frac{\partial #1}{\partial #2}}
+
+   %%%  全微分
+   \newcommand{\drv}[2]{\frac{d#1}{d#2}}
+
+   %%%  変分
+   \newcommand{\ddrv}[2]{\frac{\delta #1}{\delta #2}}
+
+   %%%  < （ブラ）と > (ケット)
+   \newcommand{\lag}{\langle}
+   \newcommand{\rag}{\rangle}
+
+
+   %%%  boldmath で出力
+   \newcommand{\vecbm}[1]{\mbox{\boldmath $#1$}}
