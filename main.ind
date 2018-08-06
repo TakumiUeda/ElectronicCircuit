@@ -1,79 +1,172 @@
 
 \begin{theindex}
 
-  \setcounter{page}{14}
+  \setcounter{page}{41}
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small C\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item CMOS\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small F\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item FET\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small H\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item hパラメータ\dotfill \hyperpage{8}
+
+  \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item IC\dotfill \hyperpage{5}
+  \item IC\dotfill \hyperpage{6}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small L\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item LSI\dotfill \hyperpage{5}
+  \item LSI\dotfill \hyperpage{6}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small M\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item MOSFET\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small N\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item n型半導体\dotfill \hyperpage{5}
+  \item nチャネル\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small P\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item PN接合\dotfill \hyperpage{7}
+  \item p型半導体\dotfill \hyperpage{6}
+  \item pチャネル\dotfill \hyperpage{9}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small V\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item VLSI\dotfill \hyperpage{6}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small Z\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item zパラメータ\dotfill \hyperpage{8}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small あ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item イマジナリショート\dotfill \hyperpage{9}
-  \item エミッタ\dotfill \hyperpage{7}
-  \item オペアンプ\dotfill \hyperpage{9}
+  \item アクセプタ\dotfill \hyperpage{6}
+  \item アノード\dotfill \hyperpage{7}
+  \item イコライザ\dotfill \hyperpage{7}
+  \item イマジナリショート\dotfill \hyperpage{10}
+  \item エミッタ\dotfill \hyperpage{8}
+  \item エミッタ接地回路\dotfill \hyperpage{8}
+  \item エミッタフォロア\dotfill \hyperpage{8}
+  \item エンハンスメント型\dotfill \hyperpage{9}
+  \item オペアンプ\dotfill \hyperpage{10}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small か\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item カップリングコンデンサ\dotfill \hyperpage{7}
-  \item 価電子帯\dotfill \hyperpage{5}
-  \item 寄生容量\dotfill \hyperpage{7}
-  \item 禁制帯\dotfill \hyperpage{5}
-  \item コレクタ\dotfill \hyperpage{7}
-  \item コンパレータ\dotfill \hyperpage{9}
+  \item カソード\dotfill \hyperpage{7}
+  \item カップリングコンデンサ\dotfill \hyperpage{8}
+  \item 価電子帯\dotfill \hyperpage{6}
+  \item カレントミラー\dotfill \hyperpage{8}
+  \item カレントミラー回路\dotfill \hyperpage{8}
+  \item 寄生容量\dotfill \hyperpage{8}
+  \item 禁制帯\dotfill \hyperpage{6}
+  \item 空乏層\dotfill \hyperpage{7}
+  \item ゲート\dotfill \hyperpage{9}
+  \item 降圧チョッパー\dotfill \hyperpage{7}
+  \item コレクタ\dotfill \hyperpage{8}
+  \item コレクタ接地回路\dotfill \hyperpage{8}
+  \item コンパレータ\dotfill \hyperpage{10}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small さ\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item サイリスタ\dotfill \hyperpage{7}
-  \item 非反転増幅器\dotfill \hyperpage{10}
-  \item 少数キャリア\dotfill \hyperpage{5}
-  \item 整流\dotfill \hyperpage{6}
-  \item 整流用ダイオード\dotfill \hyperpage{6}
-  \item 積分器\dotfill \hyperpage{10}
-  \item 全波整流\dotfill \hyperpage{6}
+  \item サイリスタ\dotfill \hyperpage{9}
+  \item 非反転増幅器\dotfill \hyperpage{11}
+  \item 遮断領域\dotfill \hyperpage{8}
+  \item シュミットトリガー\dotfill \hyperpage{8}
+  \item 昇圧チョッパー\dotfill \hyperpage{7}
+  \item 少数キャリア\dotfill \hyperpage{5}, \hyperpage{6}
+  \item ショットキー接合\dotfill \hyperpage{7}
+  \item 真性半導体\dotfill \hyperpage{5}
+  \item スイッチング作用\dotfill \hyperpage{8}
+  \item 正帰還\dotfill \hyperpage{9}
+  \item 静特性\dotfill \hyperpage{8}
+  \item 整流\dotfill \hyperpage{7}
+  \item 整流用ダイオード\dotfill \hyperpage{7}
+  \item 積分器\dotfill \hyperpage{11}
+  \item 線形領域\dotfill \hyperpage{8}
+  \item 全波整流\dotfill \hyperpage{7}
+  \item 増幅作用\dotfill \hyperpage{8}
+  \item ソース\dotfill \hyperpage{9}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small た\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item ダイアック\dotfill \hyperpage{6}
-  \item 多数キャリア\dotfill \hyperpage{5}
-  \item ツェナーダイオード\dotfill \hyperpage{6}
-  \item 定電圧ダイオード\dotfill \hyperpage{6}
-  \item 定電流ダイオード\dotfill \hyperpage{6}
-  \item 電子\dotfill \hyperpage{5}
-  \item トライアック\dotfill \hyperpage{7}
+  \item ダーリントン\dotfill \hyperpage{8}
+  \item ダイアック\dotfill \hyperpage{7}
+  \item ダイオード\dotfill \hyperpage{7}
+  \item 多数キャリア\dotfill \hyperpage{5}, \hyperpage{6}
+  \item チャネル\dotfill \hyperpage{9}
+  \item チョッパー\dotfill \hyperpage{7}
+  \item ツェナー効果\dotfill \hyperpage{7}
+  \item ツェナーダイオード\dotfill \hyperpage{7}
+  \item 定電圧ダイオード\dotfill \hyperpage{7}
+  \item 定電流ダイオード\dotfill \hyperpage{7}
+  \item デプレッション型\dotfill \hyperpage{9}
+  \item 電子\dotfill \hyperpage{5}, \hyperpage{6}
+  \item 電流源\dotfill \hyperpage{9}
+  \item 等価回路\dotfill \hyperpage{9}
+  \item 動作点\dotfill \hyperpage{8}
+  \item 動特性\dotfill \hyperpage{8}
+  \item トーテムポール\dotfill \hyperpage{8}
+  \item ドナー\dotfill \hyperpage{5}
+  \item トライアック\dotfill \hyperpage{9}
+  \item ドレイン\dotfill \hyperpage{9}
+  \item トンネル効果\dotfill \hyperpage{6}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small な\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item 熱暴走\dotfill \hyperpage{5}
+  \item 熱暴走\dotfill \hyperpage{6}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small は\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item バイアス\dotfill \hyperpage{7}
-  \item バイパスコンデンサ\dotfill \hyperpage{7}
-  \item 発光ダイオード\dotfill \hyperpage{6}
-  \item 反転増幅器\dotfill \hyperpage{9}
-  \item 半波整流\dotfill \hyperpage{6}
-  \item 非反転増幅器\dotfill \hyperpage{9}
-  \item 微分器\dotfill \hyperpage{10}
-  \item フェルミ準位\dotfill \hyperpage{5}
-  \item ベース\dotfill \hyperpage{7}
-  \item ホール\dotfill \hyperpage{5}
-  \item ホトダイオード\dotfill \hyperpage{6}
+  \item バーチャルショート\dotfill \hyperpage{9}
+  \item バイアス\dotfill \hyperpage{8}
+  \item バイパスコンデンサ\dotfill \hyperpage{8}
+  \item バイポーラトランジスタ\dotfill \hyperpage{8}
+  \item 発光ダイオード\dotfill \hyperpage{7}
+  \item 反転増幅器\dotfill \hyperpage{10}
+  \item 半波整流\dotfill \hyperpage{7}
+  \item 非反転増幅器\dotfill \hyperpage{10}
+  \item 微分器\dotfill \hyperpage{11}
+  \item フェルミ準位\dotfill \hyperpage{6}
+  \item フォトトライアック\dotfill \hyperpage{9}
+  \item 負帰還\dotfill \hyperpage{9}
+  \item 不純物半導体\dotfill \hyperpage{5}
+  \item プッシュプル\dotfill \hyperpage{8}
+  \item ブレークダウン\dotfill \hyperpage{7}
+  \item ベース\dotfill \hyperpage{8}
+  \item ベース接地回路\dotfill \hyperpage{8}
+  \item ヘテロ接合\dotfill \hyperpage{7}
+  \item 飽和領域\dotfill \hyperpage{8}
+  \item ホール\dotfill \hyperpage{5}, \hyperpage{6}
+  \item ホトダイオード\dotfill \hyperpage{7}
+  \item ホモ接合\dotfill \hyperpage{7}
   \item ボルテージフォロア\dotfill \hyperpage{10}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small ら\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
-  \item 励起\dotfill \hyperpage{5}
+  \item リップル\dotfill \hyperpage{7}
+  \item 励起\dotfill \hyperpage{6}
 
  \end{theindex}
