@@ -6,7 +6,6 @@
 \contentsline {section}{\numberline {3.1}トランジスタの種類}{9}{section.3.1}
 \contentsline {section}{\numberline {3.2}パイポーラトランジスタ}{9}{section.3.2}
 \contentsline {section}{\numberline {3.3}電界効果トランジスタ}{9}{section.3.3}
-\contentsline {section}{\numberline {3.4}JFET}{9}{section.3.4}
 \contentsline {chapter}{\numberline {第4章}オペアンプ}{10}{chapter.4}
 \contentsline {chapter}{\numberline {第5章}ノイズ対策}{12}{chapter.5}
 \contentsline {section}{\numberline {5.1}コモンモードノイズ}{12}{section.5.1}

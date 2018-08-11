@@ -24,6 +24,8 @@
 \indexentry{だいおーど@ダイオード|hyperpage}{7}
 \indexentry{PNせつごう@PN接合|hyperpage}{7}
 \indexentry{くうぼうそう@空乏層|hyperpage}{7}
+\indexentry{せいりゅうようだいおーど@整流用ダイオード|hyperpage}{7}
+\indexentry{つぇなーだいおーど@ツェナーダイオード|hyperpage}{7}
 \indexentry{つぇなーこうか@ツェナー効果|hyperpage}{7}
 \indexentry{ぶれーくだうん@ブレークダウン|hyperpage}{7}
 \indexentry{あのーど@アノード|hyperpage}{7}
@@ -32,10 +34,8 @@
 \indexentry{へてろせつごう@ヘテロ接合|hyperpage}{7}
 \indexentry{しょっときーせつごう@ショットキー接合|hyperpage}{7}
 \indexentry{せいりゅうようだいおーど@整流用ダイオード|hyperpage}{7}
-\indexentry{せいりゅうようだいおーど@整流用ダイオード|hyperpage}{7}
 \indexentry{ていでんあつだいおーど@定電圧ダイオード|hyperpage}{7}
 \indexentry{ていでんりゅうだいおーど@定電流ダイオード|hyperpage}{7}
-\indexentry{つぇなーだいおーど@ツェナーダイオード|hyperpage}{7}
 \indexentry{ほとだいおーど@ホトダイオード|hyperpage}{7}
 \indexentry{はっこうだいおーど@発光ダイオード|hyperpage}{7}
 \indexentry{だいあっく@ダイアック|hyperpage}{7}
@@ -96,6 +96,7 @@
 \indexentry{どれいん@ドレイン|hyperpage}{9}
 \indexentry{でぷれっしょんがた@デプレッション型|hyperpage}{9}
 \indexentry{えんはんすめんとがた@エンハンスメント型|hyperpage}{9}
+\indexentry{JFET@JFET|hyperpage}{9}
 \indexentry{おぺあんぷ@オペアンプ|hyperpage}{10}
 \indexentry{こんぱれーた@コンパレータ|hyperpage}{10}
 \indexentry{いまじなりしょーと@イマジナリショート|hyperpage}{10}

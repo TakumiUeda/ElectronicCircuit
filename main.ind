@@ -1,7 +1,7 @@
 
 \begin{theindex}
 
-  \setcounter{page}{41}
+  \setcounter{page}{43}
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small C\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item CMOS\dotfill \hyperpage{9}
@@ -20,6 +20,11 @@
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small I\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
 
   \item IC\dotfill \hyperpage{6}
+
+  \indexspace
+{\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small J\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
+
+  \item JFET\dotfill \hyperpage{9}
 
   \indexspace
 {\vbox{\hbox to \linewidth{\sffamily\bfseries\gtfamily\small L\ \hskip\fill}\vskip1pt\hrule}}\nopagebreak
